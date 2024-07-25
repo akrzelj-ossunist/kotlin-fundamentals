@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="add_task">Add Task</string>
+    <string name="priority">Priority</string>
+    <string name="completed">Completed</string>
+    <string name="not_completed">Not Completed</string>
+    <string name="task_description">Task Description</string>
+    <string name="filter_by_priority">Filter by Priority</string>
+    <string name="all">All</string>
+    <string name="finish">Finish</string>
+</resources>
